@@ -1,0 +1,6 @@
+{
+  "name": "Quản Lý Thiết Bị Dạy Học - THCS Nhơn Mỹ",
+  "description": "Hệ thống quản lý thiết bị dạy học thông minh Trường THCS Nhơn Mỹ theo chương trình GDPT 2018",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
